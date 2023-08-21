@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFsHjsjMmQ/oHIE9qh9uKgZO2xqd65tsA/edit?utm_content=DAFsHjsjMmQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+<img src="https://www.canva.com/design/DAFsHjsjMmQ/MJibJmfu7iBrSvkvKEBJxw/view?utm_content=DAFsHjsjMmQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
 
 
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
