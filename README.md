@@ -1,4 +1,5 @@
-<img src="https://www.canva.com/design/DAFsHjsjMmQ/MJibJmfu7iBrSvkvKEBJxw/view?utm_content=DAFsHjsjMmQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="https://media.licdn.com/dms/image/D4E16AQE9rVA2Eh8Gyg/profile-displaybackgroundimage-shrink_350_1400/0/1692572333263?e=1698278400&v=beta&t=htzhUkLBFRRL2Mo96gk1uFtaRB4LoR4gndzYHXwRoW8">
+<h1 align="center">Hi there!</h1>
 
 
 <div>
@@ -43,5 +44,8 @@ const aboutMe = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantrejoc&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+<p>
+   <a href="https://www.linkedin.com/in/ivanjtrejoc/">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+   </a>  
+</p>
