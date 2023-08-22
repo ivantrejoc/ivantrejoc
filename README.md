@@ -47,6 +47,7 @@ const aboutMe = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantrejoc&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <p>
+   <h2>Connect with me</h2>
    <a href="https://www.linkedin.com/in/ivanjtrejoc/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
    </a>  
