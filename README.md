@@ -40,6 +40,8 @@ const aboutMe = {
 <h2>💻 Some stats 💻</h2>
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivantrejoc&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantrejoc&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
