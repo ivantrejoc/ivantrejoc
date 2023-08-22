@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQE9rVA2Eh8Gyg/profile-displaybackgroundimage-shrink_350_1400/0/1692572333263?e=1698278400&v=beta&t=htzhUkLBFRRL2Mo96gk1uFtaRB4LoR4gndzYHXwRoW8">
 <h1 align="center">Hi there!</h1>
-
+</br></br>
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -23,18 +23,18 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "Redux"],
          css: ["TailwindCSS"]
       },
       backEnd: {      
          js: ["Node", "Express"],         
-         misc: ["Bash", "Git, "Insomnia"]
+         misc: ["Bash", "Git", "Insomnia"]
       },
       databases: ["MongoDB", "Sequelize", "PostgreSQL"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "I'm working day by day to learn new skils and to be the best programmer",
 };
 ```
 </br></br>
