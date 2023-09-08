@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQE9rVA2Eh8Gyg/profile-displaybackgroundimage-shrink_350_1400/0/1692572333263?e=1699488000&v=beta&t=bSbuGT9mBhp2tlj5OfDRwiTWPJRuYOGyVaAvayv_uvc">
+<img src="https://media.licdn.com/dms/image/D4E16AQGz8Z8Pzzex8g/profile-displaybackgroundimage-shrink_350_1400/0/1694199116151?e=1699488000&v=beta&t=ce_J7htTybrivM0oplok7CNO9jrCL439dRTDAyFiwGU">
 <h1 align="center">Hi there!</h1>
 </br></br>
 
