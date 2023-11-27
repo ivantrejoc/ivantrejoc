@@ -25,14 +25,14 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["TailwindCSS"]
+         js: ["React", "Redux", "NextJS"],
+         css: ["TailwindCSS", "Bootstrap"]
       },
       backEnd: {      
          js: ["Node", "Express"],         
          misc: ["Bash", "Git", "Insomnia"]
       },
-      databases: ["MongoDB", "Sequelize", "PostgreSQL"],
+      databases: ["MongoDB", "Sequelize", "PostgreSQL", "MySQL"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Open for job opportunities"],
