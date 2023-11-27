@@ -22,7 +22,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python],
+   code: ["Javascript", "HTML5", "CSS3", "Python"],
    technologies: {
       frontEnd: {
          js: ["React", "Redux", "NextJS"],
