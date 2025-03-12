@@ -25,7 +25,7 @@ const aboutMe = {
    code: ["Javascript", "Typescript", "HTML5", "CSS3", "Python"],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "NextJS", "React Native"] ,
+         js: ["React", "Redux", "NextJS", "Astro", "React Native"] ,
          css: ["CSS Modules", "MUI", "TailwindCSS", "Bootstrap"]
       },
       backEnd: {      
