@@ -22,17 +22,17 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript", "HTML5", "CSS3", "Python"],
+   code: ["Javascript", "Typescript", "HTML5", "CSS3", "Python"],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "NextJS"],
-         css: ["TailwindCSS", "Bootstrap"]
+         js: ["React", "Redux", "NextJS", "React Native"] ,
+         css: ["CSS Modules", "MUI", "TailwindCSS", "Bootstrap"]
       },
       backEnd: {      
-         js: ["Node", "Express"],         
+         js: ["Node", "Express", "Nestjs"],         
          misc: ["Bash", "Git", "Insomnia"]
       },
-      databases: ["MongoDB", "Sequelize", "PostgreSQL", "MySQL"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Open for job opportunities"],
