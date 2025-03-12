@@ -28,6 +28,7 @@ const aboutMe = {
    code: ["Javascript", "Typescript", "HTML5", "CSS3", "Python"],
    technologies: {
       frontEnd: {
+         cms: ["Wordpress"],
          js: ["React", "Redux", "NextJS", "Astro", "React Native"] ,
          css: ["CSS Modules", "MUI", "TailwindCSS", "Bootstrap"]
       },
