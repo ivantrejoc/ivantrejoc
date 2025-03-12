@@ -1,4 +1,4 @@
-<img src="https://iili.io/dXP3Rl1.png"/>
+<img src="https://iili.io/3qPzCkg.png"/>
 <h1 align="center">Hi there!</h1>
 </br></br>
 
